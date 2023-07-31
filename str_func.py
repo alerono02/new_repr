@@ -3,4 +3,5 @@ def str_func(string: str):
 
 
 def title_str(string: str):
+    """Transform in title word"""
     return string.title()
